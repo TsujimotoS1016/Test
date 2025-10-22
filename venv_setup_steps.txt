@@ -1,4 +1,4 @@
-source ../.venv/bin/activate
-source ../venv_ultralytics/bin/activate
+source .venv/bin/activate
+source venv_ultralytics/bin/activate
 
 deactivate
