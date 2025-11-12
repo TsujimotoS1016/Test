@@ -1,3 +1,4 @@
+# mediapipeがpython3.10 以下じゃないとだめ
 import cv2
 import mediapipe as mp
 import time
